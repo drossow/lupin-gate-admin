@@ -1,0 +1,16 @@
+{
+  "local-lupin": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "localhost",
+    "database": "LupinGateDev",
+    "password": "l00py",
+    "name": "local-lupin",
+    "user": "lupin",
+    "connector": "mysql"
+  },
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  }
+}
